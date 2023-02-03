@@ -22,9 +22,16 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-
-[<img align="left" alt="LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>
-[<img align="left" alt="Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />]
-
+<p align="center">
+[<img align="left" alt="LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt="Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+</p>
 
 ### ⭐️ From [azzabihamza](https://github.com/azzabihamza) ### 
+
+---
+
+
+[instagram]: https://www.instagram.com/azzabi_hamza/
+[linkedin]: https://www.linkedin.com/in/hamza-azzabi/
+
